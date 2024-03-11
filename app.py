@@ -54,7 +54,7 @@ if submit:
         st.header("The response is: ")
         st.subheader("here's what we found")
         st.write(response)
-        st.info("Information provided may be inaccurate.KIndly cosider double-checking the responses.")
+        st.info("Information provided may be inaccurate.Kindly consider double-checking the responses.")
 
 
 footer="""<style>
